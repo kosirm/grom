@@ -1,4 +1,6 @@
 # gatsby-starter-grommet
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kosirm/grom.svg)](https://greenkeeper.io/)
 Gatsby starter configured to use the [Grommet design system](https://grommet.github.io/).
 
 Use this starter by running:
